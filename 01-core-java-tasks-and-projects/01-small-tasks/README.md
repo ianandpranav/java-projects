@@ -1,52 +1,92 @@
-# Core Java Tasks
+# Small Java Tasks
 
-Small, focused Java programming tasks for building programming
-fundamentals and problem-solving skills.
-
-## Purpose
-
-This section contains beginner-level tasks designed to strengthen
-core Java concepts through short, practical problems.
+A collection of small Java programming tasks focused on building
+strong programming fundamentals and problem-solving skills.
 
 ## Topics Covered
 
-- User input with Scanner
-- Variables and data types
-- Arithmetic and comparison operators
-- Conditional statements
-- `if`, `else if`, and `else`
-- `switch`
-- Basic logical thinking
-- Simple problem solving
+### Basic Conditions
+- Pass / Fail
+- Even / Odd
+- Positive / Negative / Zero
+- Largest of Two Numbers
+- Largest of Three Numbers
+- Grade Calculation
+- Leap Year
+- Vowel / Consonant
+- Divisibility
 
-## Tasks
+### Basic Calculations
+- Simple Calculator
+- Average of Numbers
+- Area of Circle
+- Area of Rectangle
+- Area of Triangle
+- Simple Interest
+- Electricity Bill
+- Temperature Conversion
+- Power of a Number
 
-| Task | Concept |
-|---|---|
-| Student Pass/Fail | Conditions |
-| Even/Odd | Modulus operator |
-| Positive/Negative/Zero | Conditions |
-| Largest of Two | Comparison |
-| Largest of Three | Logical conditions |
-| Simple Calculator | Switch |
-| Grade Calculator | Conditional statements |
-| Leap Year Checker | Conditions and operators |
-| Vowel/Consonant | Character conditions |
+### Loops & Number Logic
+- Multiplication Table
+- Sum of Numbers
+- Factorial
+- Count Digits
+- Reverse Number
+- Palindrome Number
+- Prime Number
+- Factors of a Number
+- Fibonacci Series
+- HCF
+- LCM
 
-## Practice Approach
+### Digit-Based Problems
+- Sum of Digits
+- Product of Digits
+- Even Digit Count
+- Odd Digit Count
+- Zero Digit Count
+- Largest Digit
+- Smallest Digit
+- Digit Frequency
+- First Digit
+- Last Digit
+- Second Largest Digit
+- Second Smallest Digit
+- Sum of First and Last Digit
+- Difference of First and Last Digit
+- Middle Digit
+- Sum of Three Digits
+- Product of Three Digits
 
-**Understand → Analyze → Code → Run → Test → Improve**
+### Special Number Problems
+- Armstrong Number
+- Perfect Number
+- Strong Number
+- Automorphic Number
+- Neon Number
+- Spy Number
+- Harshad Number
+- Duck Number
 
-Each task is kept small so that the focus remains on understanding
-the logic rather than building a large application.
+### Character & Basic Input Problems
+- Character ASCII Value
+- Alphabet Checker
+- Digit or Character Checker
+- Days in a Month
 
-## Difficulty
+### Other Practice Problems
+- Swap Numbers
+- Count Even and Odd Numbers
+- Number of Notes
 
-**Level: Beginner**
+## Learning Approach
 
-These tasks form the foundation for moving towards medium-level
-problem-solving exercises and larger Java projects.
+**Understand → Analyze → Code → Run → Test → Debug → Refine**
+
+The goal is to understand the logic behind each problem rather than
+memorizing solutions.
 
 ## Status
 
-**In Progress**
+**Completed — More tasks may be added as needed**
